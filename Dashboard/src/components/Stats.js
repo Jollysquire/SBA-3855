@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useRef } from 'react'
 
 const Stats = () => {
     const [event, setEvent] = useState([])
@@ -15,8 +15,7 @@ const Stats = () => {
         <div className="stats">
             <h2>Latest Statistics</h2>
             <div>
-                <p>Max Buy Price: ${event.max_buy_price}</p>
-                {/* output stats here */}
+                
             </div>
         </div>
     )   
