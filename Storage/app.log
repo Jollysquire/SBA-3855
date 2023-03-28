@@ -1,0 +1,150 @@
+STORAGE :: DEBUG – Stored SELL event with trace id {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': '54bc8880-3bdd-42a0-bd35-ace1ecd9ef7a'}
+STORAGE :: DEBUG – Stored SELL event with trace id 77148d4e-23b7-4464-a8a9-ad8e639700ea
+STORAGE :: DEBUG – Stored BUY event with trace id 92364f7b-04da-4818-a44f-7655da3c280e
+STORAGE :: DEBUG – Stored BUY event with trace id cf26c005-44d6-4b48-97f8-debb36d73342
+STORAGE :: DEBUG – Query for buy readings after 2023-01-31T00:00:00Z returns 0 results
+STORAGE :: DEBUG – Query for buy readings after 2022-01-31T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 2022-01-31T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for sell readings after 2022-01-31T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 1970-01-01T00:00:00Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 1970-01-01T00:00:00Z returns 4 results
+STORAGE :: DEBUG – Query for buy readings after 2023-01-31T09:46:48Z returns 0 results
+STORAGE :: DEBUG – Query for sell readings after 2023-01-31T09:46:48Z returns 0 results
+STORAGE :: DEBUG – Query for buy readings after 2023-01-31T09:46:53Z returns 0 results
+STORAGE :: DEBUG – Query for sell readings after 2023-01-31T09:46:53Z returns 0 results
+STORAGE :: DEBUG – Query for buy readings after 2023-01-31T09:46:58Z returns 0 results
+STORAGE :: DEBUG – Query for sell readings after 2023-01-31T09:46:58Z returns 0 results
+STORAGE :: DEBUG – Query for buy readings after 2023-01-31T09:47:03Z returns 0 results
+STORAGE :: DEBUG – Query for sell readings after 2023-01-31T09:47:03Z returns 0 results
+STORAGE :: DEBUG – Query for buy readings after 2023-01-31T09:47:08Z returns 0 results
+STORAGE :: DEBUG – Query for buy readings after 2022-03-27T12:52:45Z returns 2 results
+STORAGE :: DEBUG – Query for sell readings after 2022-03-27T12:52:45Z returns 4 results
+STORAGE :: DEBUG – Query for sell readings after 2022-03-27T12:52:45Z returns 4 results
+STORAGE :: DEBUG – Stored BUY event with trace id d290f1ee-6c54-4b01-90e6-d701748f0851
+STORAGE :: DEBUG – Stored BUY event with trace id d290f1ee-6c54-4b01-90e6-d701748f0851
+STORAGE :: DEBUG – Stored BUY event with trace id d290f1ee-6c54-4b01-90e6-d701748f0851
+STORAGE :: DEBUG – Query for buy readings after 2022-03-27T12:52:45Z returns 5 results
+STORAGE :: DEBUG – Query for buy readings after 2022-03-27T12:52:45Z returns 5 results
+STORAGE :: DEBUG – Query for buy readings after 2022-03-27T12:52:45Z returns 5 results
+STORAGE :: DEBUG – Query for buy readings after 2022-03-27T12:52:45Z returns 5 results
+STORAGE :: DEBUG – Query for buy readings after 2022-03-27T12:52:45Z returns 5 results
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:48:23', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '74d4b640-f38b-4fa4-b984-91565077e6f8'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:48:44', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'ddc3ba2c-b09a-491e-a499-2d24ac7df881'}}
+STORAGE :: DEBUG – CONSUMER::storing sell event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-03-27T12:48:59', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': '3f8828a3-8a04-4287-8df8-8518c213b746'}}
+STORAGE :: DEBUG – CONSUMER::storing sell event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-03-27T12:49:25', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': 'cbb3f314-292f-47ab-827d-f9272f1e6cd3'}}
+STORAGE :: DEBUG – CONSUMER::storing sell event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-03-27T12:49:50', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': '509d0bfb-1cfd-471e-9535-3e19ecd6ec0c'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:50:12', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '9391de07-bd10-479c-a663-7fea71665fb2'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:50:17', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'f9673b84-76df-4587-83f6-5dce15dee75c'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:51:37', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'fddbb4bf-13c5-4af3-835d-f03c0af5abfc'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:52:18', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '78673433-a9cf-45b3-b1c1-3146890fff45'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:52:45', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '76a06a02-1efe-4a13-869c-da8dfdb5a26d'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:52:53', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '9f67743e-ed54-4a1c-828f-a005be0459d5'}}
+STORAGE :: DEBUG – CONSUMER::storing sell event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-03-27T12:52:57', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': '6063a53a-6baf-49e2-96eb-3aaf109d5eb2'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:59:17', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'f6fe09f2-44f2-4acb-92d4-300ff62ab9f3'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:59:25', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '882561f0-b959-4f02-ac65-0fb27fa8fdd9'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:59:31', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'ef271923-7631-4ae3-84de-4b47e9e1c165'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T12:59:39', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'eda9407c-b46d-4e8e-bfc5-27aab02a596c'}}
+STORAGE :: DEBUG – CONSUMER::storing buy event
+STORAGE :: DEBUG – {'type': 'buy', 'datetime': '2023-03-27T13:03:08', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'a91e4e6b-978a-4a89-9a86-ef4b2511a961'}}
+STORAGE :: DEBUG – CONSUMER::storing sell event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-03-27T13:03:20', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': '3cb1f596-f972-45f9-b482-b156fdb17eea'}}
+STORAGE :: DEBUG – CONSUMER::storing sell event
+STORAGE :: DEBUG – {'type': 'sell', 'datetime': '2023-03-27T13:03:37', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': '4dafd627-15b3-4d44-8a79-da6ba481963f'}}
