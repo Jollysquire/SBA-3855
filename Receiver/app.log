@@ -66,3 +66,4 @@ RECEIVER :: DEBUG – Received sell event with trace id 4dafd627-15b3-4d44-8a79-
 RECEIVER :: DEBUG – PRODUCER::producing sell event
 RECEIVER :: DEBUG – {"type": "sell", "datetime": "2023-03-27T13:03:37", "payload": {"item_name": "Item 1", "item_price": 19.99, "sell_id": "d290f1ee-6c54-4b01-90e6-d701748f0851", "sell_qty": 1, "trace_id": "4dafd627-15b3-4d44-8a79-da6ba481963f"}}
 RECEIVER :: DEBUG – Received buy event with trace id f816fc7e-f940-40f1-8d0c-f713424141e6
+RECEIVER :: DEBUG – Received buy event with trace id a322c563-d825-4bbf-a7ca-93543c9a3b82

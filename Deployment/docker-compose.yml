@@ -2,6 +2,7 @@ version: '2'
 services:
   zookeeper:
     image: confluentinc/cp-zookeeper:latest
+    container_name: zookeeper
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
       ZOOKEEPER_TICK_TIME: 2000
@@ -10,6 +11,7 @@ services:
   
   kafka:
     image: confluentinc/cp-kafka:latest
+    container_name: kafka
     depends_on:
       - zookeeper
     ports:
@@ -22,13 +24,13 @@ services:
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
 
-  mysql:
-    container_name: mysql
-    image: mysql:latest
-    environment:
-      MYSQL_ROOT_PASSWORD: root
-    volumes:
-      - data:/var/lib/mysql
+  # mysql:
+  #   container_name: mysql
+  #   image: mysql:latest
+  #   environment:
+  #     MYSQL_ROOT_PASSWORD: root
+  #   volumes:
+  #     - data:/var/lib/mysql
 
   receiver:
     build: ../Receiver
@@ -36,8 +38,6 @@ services:
     container_name: receiver
     ports:
       - "8080:8080"
-    depends_on:
-      - "kafka"
 
   storage:
     build: ../Storage
@@ -46,18 +46,17 @@ services:
     ports:
       - "8090:8090"
     depends_on:
-      - "kafka"
-      - "mysql"
+      - "receiver"
 
   processing:
     build: ../Processing
     image: processing:latest
     container_name: processing
+    network_mode: "host"
     ports:
       - "8100:8100"
-    network_mode: "host"
     depends_on:
       - "storage"
 
-volumes:
-  data:
+# volumes:
+#   data:
